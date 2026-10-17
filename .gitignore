@@ -9,3 +9,6 @@ temp
 roms
 *.user
 .aider*
+
+# usb_hid_host microcode listing
+src/usb_hid_host_firmware/ukp.lst
